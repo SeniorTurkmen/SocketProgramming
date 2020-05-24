@@ -68,7 +68,7 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-# Editor-based Rest Client
+# Editor-based Rest ClientThread
 .idea/httpRequests
 
 # Android studio 3.1+ serialized cache file
@@ -116,3 +116,6 @@ modules.xml
 hs_err_pid*
 
 # End of https://www.gitignore.io/api/java,intellij+all
+
+#Personalization
+.logs/
