@@ -5,7 +5,6 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.Scanner;
 
-import static javax.print.attribute.Size2DSyntax.MM;
 
 public class TCPClient {
     static int girdi = 0, dataOutTime = 0, dataInTime = 0;

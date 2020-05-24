@@ -6,7 +6,7 @@ public class MultiThreadSocketServer {
         try{
             ServerSocket server =   new ServerSocket(4027);
             int counter         =   0;
-            System.out.println("Server Started ....");
+        System.out.println("Server Started ....");
             while(true){
                 counter++;
 
